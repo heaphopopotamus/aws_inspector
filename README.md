@@ -1,2 +1,4 @@
 # aws_inspector
-Code to utilize the aws api to find things
+This is currently a dumping ground for AWS API code im using in various proof of concept tools.
+
+
